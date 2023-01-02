@@ -1,6 +1,6 @@
 
 
-# Chat GPT interface for testing
+# Falcons.ai Chat GPT interface.
 
 <div id="top"></div>
 <div align="center">
@@ -27,6 +27,7 @@ CHATGPT Interface</h3>
   <p align="center">
     A simple codebase to run and test the new ChatGPT by OPENAI
     <br />
+    Much thanks to JavascriptMastery for the base files.
 
   </p>
 </div>
