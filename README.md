@@ -1,6 +1,6 @@
 
 
-# Jetson Interface Installer for Nano 4GB
+# Chat GPT interface for testing
 
 <div id="top"></div>
 <div align="center">
